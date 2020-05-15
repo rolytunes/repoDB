@@ -1,0 +1,14 @@
+{
+  "album": [
+    { "id": 1, "title": "Future Nostalgia", "idArtist": 1 }
+  ],
+  "song": [
+    { "id": 1, "title": "Physical", "idAlbum": 1 }
+  ],
+  "artist": [
+    { "id": 1, "name": "Dua Lipa" }
+  ],
+  "app": {
+    "name": "TopMusic"
+  }
+}
